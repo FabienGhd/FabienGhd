@@ -1,6 +1,26 @@
 ### Hi there 👋
 
-Second-year Computer Science student at the University of Rennes 1. 
+``` 
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class CS_student:
+
+    def __init__(self):
+        self.name = "Fabien Guihard"
+        self.year = 2
+        self.position = "Rennes, France"
+        self.language_spoken = ["EN", "FR"]
+        self.height = 175 
+
+    def say_hi(self):
+        print("Thanks for dropping by!")
+
+
+me = CS_student()
+me.say_hi()
+``` 
 <!--
 **FabienGhd/FabienGhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
