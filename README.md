@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Second-year Computer Science student at the University of Rennes 1. 
 <!--
 **FabienGhd/FabienGhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
