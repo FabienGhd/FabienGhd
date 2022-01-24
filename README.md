@@ -12,7 +12,6 @@ class CS_student:
         self.year = 2
         self.position = "Rennes, France"
         self.language_spoken = ["EN", "FR"]
-        self.height = 175 
         self.email = "guihard.fa@gmail.com"
 
     def say_hi(self):
