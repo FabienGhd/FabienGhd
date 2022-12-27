@@ -9,7 +9,7 @@ class CS_student:
 
     def __init__(self):
         self.name = "Fabien Guihard"
-        self.year = 2
+        self.year = 3
         self.position = "Rennes, France"
         self.language_spoken = ["EN", "FR"]
         self.email = "guihard.fa@gmail.com"
