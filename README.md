@@ -9,7 +9,8 @@ class CyberSecurity_student:
 
     def __init__(self):
         self.name = "Fabien Guihard"
-        self.year = first year - Master's degree
+        self.degree = "Master's degree"
+        self.year = 1
         self.position = "Rennes, France"
         self.language_spoken = ["EN", "FR"]
         self.email = "guihard.fa@gmail.com"
