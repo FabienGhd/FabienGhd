@@ -5,11 +5,11 @@
 # -*- coding: utf-8 -*-
 
 
-class CS_student:
+class CyberSecurity_student:
 
     def __init__(self):
         self.name = "Fabien Guihard"
-        self.year = 3
+        self.year = first year - Master's degree
         self.position = "Rennes, France"
         self.language_spoken = ["EN", "FR"]
         self.email = "guihard.fa@gmail.com"
@@ -18,6 +18,6 @@ class CS_student:
         print("Thanks for dropping by!")
 
 
-me = CS_student()
+me = CyberSecurity_student()
 me.say_hi()
 ``` 
