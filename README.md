@@ -4,7 +4,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
 class CyberSecurity_student:
 
     def __init__(self):
@@ -17,7 +16,6 @@ class CyberSecurity_student:
 
     def say_hi(self):
         print("Thanks for dropping by!")
-
 
 me = CyberSecurity_student()
 me.say_hi()
