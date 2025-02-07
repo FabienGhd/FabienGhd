@@ -9,7 +9,7 @@ class CyberSecurity_student:
     def __init__(self):
         self.name = "Fabien Guihard"
         self.degree = "Double Master's degree"
-        self.year = 1
+        self.year = 2
         self.language_spoken = ["EN", "FR"]
 
     def say_hi(self):
