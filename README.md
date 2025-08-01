@@ -8,7 +8,7 @@ class Security_engineer:
 
     def __init__(self):
         self.name = "Fabien Guihard"
-        self.goals = "Pushing technical boundaries and contributing to open-source along the way."
+        self.goals = "Pushing technical boundaries and contributing to open-source along the way"
         self.degree1 = "Double Master's degree - Cybersecurity"
         self.degree2 = "Bachelor's degree - Computer Science"
         self.universities = [
